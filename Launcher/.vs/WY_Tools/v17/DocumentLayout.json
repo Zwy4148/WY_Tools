@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\wy_tools\\WY_Tools\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16A4DBD1-0044-42FE-B13A-DA5A80DA061B}|WY_Tools\\WY_Tools.csproj|e:\\wy_tools\\wy_tools\\wy_tools\\wordcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A4DBD1-0044-42FE-B13A-DA5A80DA061B}|WY_Tools\\WY_Tools.csproj|solutionrelative:wy_tools\\wordcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A4DBD1-0044-42FE-B13A-DA5A80DA061B}|WY_Tools\\WY_Tools.csproj|E:\\wy_tools\\WY_Tools\\wy_tools\\wordcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16A4DBD1-0044-42FE-B13A-DA5A80DA061B}|WY_Tools\\WY_Tools.csproj|solutionrelative:wy_tools\\wordcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A4DBD1-0044-42FE-B13A-DA5A80DA061B}|WY_Tools\\WY_Tools.csproj|E:\\wy_tools\\WY_Tools\\wy_tools\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16A4DBD1-0044-42FE-B13A-DA5A80DA061B}|WY_Tools\\WY_Tools.csproj|solutionrelative:wy_tools\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A4DBD1-0044-42FE-B13A-DA5A80DA061B}|WY_Tools\\WY_Tools.csproj|E:\\wy_tools\\WY_Tools\\wy_tools\\tips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16A4DBD1-0044-42FE-B13A-DA5A80DA061B}|WY_Tools\\WY_Tools.csproj|solutionrelative:wy_tools\\tips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16A4DBD1-0044-42FE-B13A-DA5A80DA061B}|WY_Tools\\WY_Tools.csproj|E:\\wy_tools\\WY_Tools\\wy_tools\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A4DBD1-0044-42FE-B13A-DA5A80DA061B}|WY_Tools\\WY_Tools.csproj|solutionrelative:wy_tools\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\wy_tools\\WY_Tools\\WY_Tools\\Form1.cs",
+              "RelativeDocumentMoniker": "WY_Tools\\Form1.cs",
+              "ToolTip": "E:\\wy_tools\\WY_Tools\\WY_Tools\\Form1.cs",
+              "RelativeToolTip": "WY_Tools\\Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:51:46.527Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tips.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\wy_tools\\WY_Tools\\WY_Tools\\Tips.cs",
+              "RelativeDocumentMoniker": "WY_Tools\\Tips.cs",
+              "ToolTip": "E:\\wy_tools\\WY_Tools\\WY_Tools\\Tips.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WY_Tools\\Tips.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:25:06.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordCloud.cs",
+              "DocumentMoniker": "E:\\wy_tools\\WY_Tools\\WY_Tools\\WordCloud.cs",
+              "RelativeDocumentMoniker": "WY_Tools\\WordCloud.cs",
+              "ToolTip": "E:\\wy_tools\\WY_Tools\\WY_Tools\\WordCloud.cs",
+              "RelativeToolTip": "WY_Tools\\WordCloud.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAYwKMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:25:56.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordCloud.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\wy_tools\\WY_Tools\\WY_Tools\\WordCloud.cs",
+              "RelativeDocumentMoniker": "WY_Tools\\WordCloud.cs",
+              "ToolTip": "E:\\wy_tools\\WY_Tools\\WY_Tools\\WordCloud.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WY_Tools\\WordCloud.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:07:14.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\wy_tools\\WY_Tools\\WY_Tools\\Form1.cs",
+              "RelativeDocumentMoniker": "WY_Tools\\Form1.cs",
+              "ToolTip": "E:\\wy_tools\\WY_Tools\\WY_Tools\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WY_Tools\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:50:47.42Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
